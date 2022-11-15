@@ -1,0 +1,13 @@
+:root {
+  font-family: sans-serif;
+}
+.property * {
+  display: inline;
+}
+.skill {
+  background-color: green;
+  color: white;
+  margin: 4px;
+  padding: 4px;
+  border-radius: 3px;
+}
